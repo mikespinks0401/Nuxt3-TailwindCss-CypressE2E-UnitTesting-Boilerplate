@@ -1,6 +1,6 @@
 {
   "baseUrl": "http://localhost:3000",
-  "ignoreTestFiles": "**/examples/*",
+  "ignoreTestFiles": "**/2-advanced-examples/*",
   "coverage": true,
   "component": {
     "componentFolder": "components",
